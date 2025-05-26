@@ -16,7 +16,8 @@ data <- monsters %>%
   
   
 # Plot -----------------------------------------------------------
-
+brain <-  "\U1F9E0"
+strong <- "\U1F4AA"
 fondo <- "white"
 
 data %>% 
